@@ -1,3 +1,4 @@
 public class movie {
-    //started watching until 15 min
+    //watched 10 min
+    //stopped at 25 min
 }
